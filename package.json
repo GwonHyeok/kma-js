@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/GwonHyeok/kma-js#readme",
   "dependencies": {
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "request": "^2.74.0"
   }
 }
