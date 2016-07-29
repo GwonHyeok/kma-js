@@ -1,0 +1,23 @@
+{
+  "name": "kma-js",
+  "version": "1.0.0",
+  "description": "Korea Meteorological Administration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GwonHyeok/kma-js.git"
+  },
+  "keywords": [
+    "kma",
+    "weather"
+  ],
+  "author": "GwonHyeok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GwonHyeok/kma-js/issues"
+  },
+  "homepage": "https://github.com/GwonHyeok/kma-js#readme"
+}
