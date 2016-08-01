@@ -2,7 +2,7 @@
   "name": "kma-js",
   "version": "1.0.0",
   "description": "Korea Meteorological Administration",
-  "main": "./lib/kma.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
