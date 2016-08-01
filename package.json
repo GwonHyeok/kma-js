@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/GwonHyeok/kma-js#readme",
   "dependencies": {
+    "feedparser-promised": "^1.1.1",
     "mocha": "^2.5.3",
+    "moment": "^2.14.1",
     "request": "^2.74.0"
   }
 }
