@@ -1,6 +1,6 @@
 {
   "name": "kma-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Korea Meteorological Administration",
   "main": "index.js",
   "scripts": {
