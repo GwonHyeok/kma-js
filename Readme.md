@@ -40,7 +40,7 @@ kmaWeather.townWeather('37.49543016888596', '127.03781811461468')
  
  좌표로 bcode 가져오기
 ```javascript
-let kmaUtils = require('./index').Kma;
+let kmaUtils = require('kma-js').Kma;
 kmaUtils.convertBcode('37.49543016888596', '127.03781811461468')
     .then(data => console.log(data));
 ```
