@@ -24,7 +24,7 @@ KMA에서 날씨정보를 얻어오기 위해서는 bcode (지역코드)를 필�
 빠른 시작
 -----
 
-설치 방법 (아직 지원하지 않음)
+설치 방법
 ```javascript
 npm install kma-js
 ```
